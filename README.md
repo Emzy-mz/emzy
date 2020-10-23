@@ -1,5 +1,5 @@
 
-# Hi there, I'm emzy
+# Hi there, I'm Emzy209
 
 I'm just some random hobby Programmer. 
 
@@ -19,4 +19,4 @@ I'm just some random hobby Programmer.
 
 Have a bad one
 
--emzy
+-Emzy209
