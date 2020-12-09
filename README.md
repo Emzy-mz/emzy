@@ -1,5 +1,4 @@
-
-# Hi there, I'm Emzy209
+# Hi there, I'm Emzy
 
 I'm just some random hobby Programmer. 
 
@@ -8,7 +7,7 @@ I'm just some random hobby Programmer.
 
 * Programming ._.
 * Being kinda annoying.
-* Being a dick
+* Gaming
 * IDK
 
 #### I Like:
